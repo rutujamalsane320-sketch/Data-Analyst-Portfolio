@@ -14,6 +14,9 @@ SQL (Learning)
 Power BI (Learning)
 
 Project 1: Student Marks Dashboard
+Dashboard Screenshot
+
+[Student Dashboard](student_dashboard.png)
 
 Tools Used
 
